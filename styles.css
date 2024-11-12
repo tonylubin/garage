@@ -1,0 +1,34 @@
+.primaryColor {
+  color: #ff5757;
+}
+
+.secondaryBgColor {
+  background-color: #d9d9d9;
+}
+
+.navHeight {
+  height: 15vh;
+}
+
+.bannerHeight {
+  height: 70vh;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+}
+
+.aboutBgImg {
+  background-image: url("/images/freepik-export-20241110190526RtNL.jpeg");
+  background-size: cover;
+}
+
+.servicesBgImg {
+  background-image: url("/images/What-Does-a-Car-Diagnostic-Test-Tell-You-.jpg");
+  background-size: cover;
+}
+
+.cardPad {
+  padding: 4rem 5rem;
+}
