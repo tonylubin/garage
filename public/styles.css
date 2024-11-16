@@ -29,6 +29,14 @@
   background-size: cover;
 }
 
+.landingBgImg {
+  background-image: url("images/219347-P0VB16-493.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 85vh;
+}
+
 .cardPad {
   padding: 4rem 5rem;
 }
